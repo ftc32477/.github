@@ -1,10 +1,8 @@
 # Welcome to the Lab! 
 
-## **FIRST® Tech Challenge Team 32477: Free Radical**
+## **FIRST® Tech Challenge Team 32477**
 
-Greetings! You’ve landed on the official homepage of **Team 32477, Free Radical**. 
-
-We are a passionate group of innovators, engineers, and dreamers competing in the FIRST® Tech Challenge. Much like our namesake in chemistry, we’re all about **high energy**, **rapid reactions**, and **breaking bonds** to create something entirely new.
+Greetings! You’ve landed on the official homepage of **Team 32477**. 
 
 ---
 

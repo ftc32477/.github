@@ -1,4 +1,4 @@
-# Origin | FTC Team 32477 Free Radical
+# Origin | FTC Team 32477 Origin
 
 Welcome to the official GitHub repository of **Origin**, representing **FIRST® Tech Challenge Team 32477**. We are a student-led robotics team from **Beijing National Day Experimental School (BNDES)**.
 

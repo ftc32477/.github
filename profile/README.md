@@ -1,52 +1,42 @@
 # FTC Team 32477 Origin
 
-Welcome to the official GitHub repository of **Origin**, representing **FIRST® Tech Challenge Team 32477**. We are a student-led robotics team from **Beijing National Day Experimental School (BNDES)**.
+Welcome to the official GitHub organization of **Origin**, a student-led **FIRST® Tech Challenge** robotics team from **Beijing National Day Experimental School (BNDES)**.
 
 ---
 
 ## 🤖 About Us
-* **Team Number:** 32477
-* **Team Name:** Origin
-* **Affiliation:** Beijing National Day Experimental School
-* **Core Values:** Technical Excellence, Innovation, and Gracious Professionalism®.
+- **Team Number:** 32477
+- **Team Name:** Origin
+- **Affiliation:** Beijing National Day Experimental School (BNDES)
+- **Location:** Beijing, China
+- **Core Values:** Gracious Professionalism®, innovation, and technical excellence
 
----
-
-## 🚀 2025-2026 Season: DECODE
-Our mission for the **DECODE** season involves solving complex challenges through advanced automation and precise mechanical design.
-
-### Key Objectives:
-* **Relic Acquisition:** High-efficiency intake systems designed for rapid relic collection.
-* **Vision Processing:** Implementation of **Limelight 3A** for real-time **AprilTag** recognition and target tracking.
-* **Autonomous Navigation:** Utilizing **PedroPathing** and **GoBilda Pinpoint** for sub-centimeter localization and optimized path execution.
+We design, build, and program competitive robots, and we share our work openly to support the FTC community. Our repositories include season code, tools, and learning resources.
 
 ---
 
 ## 🛠 Technical Stack
-We utilize a robust software architecture to ensure reliability and performance on the field.
-
 | Category | Technology |
 | :--- | :--- |
-| **Programming Language** | Java |
+| **Language** | Java |
 | **IDE** | Android Studio |
 | **Localization** | GoBilda Pinpoint + Hub IMU Fusion |
 | **Pathing** | PedroPathing |
-| **Vision** | AprilTag Detection (Limelight 3A) |
+| **Vision** | AprilTag Detection (Limelight) |
 | **Control Logic** | PIDF Loops & Finite State Machines (FSM) |
 
 ---
 
-## 📂 Repository Structure
-* `TeamCode/src/main/java/org/firstinspires/ftc/teamcode/`: 
-    * `Auto/`: Autonomous routines for Red/Blue alliances.
-    * `TeleOp/`: Driver-controlled software including manual override logic.
-    * `Hardware/`: Hardware definitions (v3.0, v4.0, and v5.0 iterations).
-    * `Subsystems/`: Modular code for Intake, Shooter, and Chassis.
+## 📂 Code Organization
+Our FTC code follows the standard structure under `TeamCode/src/main/java/org/firstinspires/ftc/teamcode/`:
+- `Auto/` — Autonomous routines for Red/Blue alliances
+- `TeleOp/` — Driver-controlled software
+- `Hardware/` — Hardware definitions and configurations
+- `Subsystems/` — Modular subsystem code (drivetrain, intake, scoring, etc.)
 
 ---
 
 ## 🤝 Contact & Contribution
-We are committed to the open-source spirit of FTC. Feel free to explore our code, open issues, or reach out for collaboration.
+We are committed to the open-source spirit of FTC. Explore our code, open issues, or reach out for collaboration.
 
-* **Location:** Beijing, China
-* **School:** Beijing National Day Experimental School
+🌐 **Website:** [ftc32477.github.io](https://ftc32477.github.io)
